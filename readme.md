@@ -55,10 +55,10 @@ if not saved:
     cv.imwrite("samples/modified_frame.jpg", mod_frame)
     saved = True
 ```
-
 ### 📸 Sample Output
 
-![](samples\BG_remove.png)
+![Background Removed](samples/BG_remove.png)
+
 
 ---
 
@@ -99,7 +99,7 @@ fig.write_image("samples/3d_plot_dog.png")
 
 ### 📸 Sample Output
 
-![](samples\3D_image.png) 
+![3D depth Image](samples/3D_image.png) 
 ---
 
 ## 🧠 Model Info
